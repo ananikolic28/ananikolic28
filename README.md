@@ -7,12 +7,7 @@ I am mainly interested into graphic design and data science.
 I am currently working on expanding my graphic design portfolio. I'm actively expanding my knowledge in C# and .NET, with a focus on building robust, scalable applications.
 I'm focused on upgrading my Python skills for data analysis, data manipulation, and machine learning. 
 
-🛠️ Tech Stack:
-Languages: Java, C#, R, HTML, JavaScript, Python
-
-Libraries & Frameworks: React, Node.js
-
-Tools: Git, VS Code, Visual Studio
+🛠️ Tech Stack: Java, C#, R, HTML, JavaScript, Python
 
 🔭 Goals:
 My primary goal is to expand my portfolio by building more real-world projects. 
