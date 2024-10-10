@@ -9,7 +9,9 @@ I'm focused on upgrading my Python skills for data analysis, data manipulation, 
 
 🛠️ Tech Stack:
 Languages: Java, C#, R, HTML, JavaScript, Python
+
 Libraries & Frameworks: React, Node.js
+
 Tools: Git, VS Code, Visual Studio
 
 🔭 Goals:
